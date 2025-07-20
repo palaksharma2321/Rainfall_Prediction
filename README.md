@@ -72,8 +72,6 @@ The dataset consists of multiple atmospheric features like:
 - Rainfall History
 - Target: `RainToday` (Yes/No)
 
-> 📌 **Note**: Dataset source and license should be added here if using a public dataset.
-
 ---
 
 ## 🧠 Modeling Approach
